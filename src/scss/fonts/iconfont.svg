@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="txcourse" unicode="&#58967;" d="M193.914 330.38v-181.763L512-24.96799999999996l318.086 173.585V330.379L512 156.79600000000005 193.914 330.38zM512 792.967L12.151 520.323 512 247.67700000000002l408.968 223.115v-313.996h90.881V520.323L512 792.968z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

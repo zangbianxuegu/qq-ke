@@ -1,0 +1,12 @@
+.header {
+  height: 80px;
+  min-width: 1200px;
+  background-color: #fff;
+  border-bottom: 1px solid #ddd;
+
+  &-inner {
+    width: 1200px;
+    height: 100%;
+    margin: 0 auto;
+  }
+}
